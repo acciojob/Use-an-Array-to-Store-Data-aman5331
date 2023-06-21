@@ -1,1 +1,1 @@
-
+let yourArray = ["apple", 10, true, null, "banana"];
